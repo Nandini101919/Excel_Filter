@@ -64,7 +64,7 @@ The dataset contains the following fields:
 
 ![Top 10 Filter](filter%20Q4.png)
 
-**Description:** Displays the top 10 students based on marks.
+**Description:** Displays the top 3 students based on marks.
 
 ---
 
