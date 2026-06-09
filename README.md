@@ -26,9 +26,6 @@ The dataset contains the following fields:
 - Admission Date
 
 ---
-
-# 📸 Screenshots
-
 ## 1️⃣ Original Dataset
 
 ![Original Dataset](Table.png)
@@ -63,7 +60,7 @@ The dataset contains the following fields:
 
 ---
 
-## 5️⃣ Top 10 Filter
+## 5️⃣ Top 3 Filter
 
 ![Top 10 Filter](filter%20Q4.png)
 
@@ -95,19 +92,9 @@ The dataset contains the following fields:
 
 ---
 
-## 9️⃣ Custom Filter
+## 9️⃣ Date Filter (Optional)
 
-![Custom Filter](filter%20Q7.png)
-
-**Description:** Displays students with:
-- Marks > 70
-- Attendance > 80%
-
----
-
-## 🔟 Date Filter (Optional)
-
-![Date Filter](filter_Q10.png)
+![Date Filter](filter%20Q7.png)
 
 **Description:** Displays records filtered by:
 - This Month
@@ -129,11 +116,10 @@ The dataset contains the following fields:
 - Basic Filter
 - Multiple Filters
 - Number Filter
-- Top 10 Filter
+- Top 3 Filter
 - Text Filter
 - Date Filter
 - Sorting
-- Custom Filters
 - Data Analysis
 
 ---
